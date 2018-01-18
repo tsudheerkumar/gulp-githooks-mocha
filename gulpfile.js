@@ -9,5 +9,3 @@ gulp.task('eslint', () => {
       .pipe(eslint.format())
       .pipe(eslint.failAfterError());
 });
-
-gulp.task('pre-commit', ['eslint']);
