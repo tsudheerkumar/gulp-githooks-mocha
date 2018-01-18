@@ -1,0 +1,23 @@
+{
+  "name": "gulp-githooks-mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsudheerkumar/gulp-githooks-mocha.git"
+  },
+  "author": "sudheer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsudheerkumar/gulp-githooks-mocha/issues"
+  },
+  "homepage": "https://github.com/tsudheerkumar/gulp-githooks-mocha#readme",
+  "devDependencies": {
+    "git-guppy": "^2.1.0",
+    "gulp": "^4.0.0"
+  }
+}
